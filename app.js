@@ -3,4 +3,4 @@ const router = require('./routers')
 
 const server = http.createServer(router); 
 
-server.listen(4000);
+server.listen(3000);
